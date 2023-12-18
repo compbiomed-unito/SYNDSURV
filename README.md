@@ -1,5 +1,4 @@
-# Unfederated-Learning
-
+# Distributed Survival Analysis
 
 ## Datasets
 To validate our framework we considered four publicly available survival datasets, commonly used to assess the performance of the survival models: the Assay of Serum Free Light Chain [1] (FLCHAIN), the Molecular Taxonomy of Breast Cancer Interna- tional Consortium [2] (METABRIC), the Study to Understand Prognoses Preferences Outcomes and Risks of Treatment [3] (SUPPORT) and the Rotterdam tumor bank and German Breast Cancer Study Group [4], [5] (GBSG+Rotterdam).
